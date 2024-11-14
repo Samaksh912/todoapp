@@ -1,0 +1,28 @@
+com.example.todo1.app-jetified-tracing-1.2.0-0 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\132b02daefbc9220788aacc76ecee968\transformed\jetified-tracing-1.2.0\res
+com.example.todo1.app-jetified-core-ktx-1.13.1-1 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\145e9f8f1de67adce0b55c062c164204\transformed\jetified-core-ktx-1.13.1\res
+com.example.todo1.app-lifecycle-runtime-2.7.0-2 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\1e09a36cc98a55e82200c2d688a98c0d\transformed\lifecycle-runtime-2.7.0\res
+com.example.todo1.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-3 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\44e71491c7e999f9a30cbcfc025f6f96\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.todo1.app-jetified-lifecycle-process-2.7.0-4 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\482f9222070f0679996e3e329874411e\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.todo1.app-jetified-window-1.2.0-5 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\48ae984f419626d10681d5eb2c8af81b\transformed\jetified-window-1.2.0\res
+com.example.todo1.app-jetified-savedstate-1.2.1-6 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\5aa2b94526fb1b14d5105473b9c6bc18\transformed\jetified-savedstate-1.2.1\res
+com.example.todo1.app-lifecycle-viewmodel-2.7.0-7 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\8ea3c590df4a6d445cc03ef340d4ee3e\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.todo1.app-jetified-lifecycle-livedata-core-ktx-2.7.0-8 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\94046bc6618e1f871fb8bfc179afa739\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.todo1.app-jetified-window-java-1.2.0-9 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\9778e11d74b353bae101b84da2d89203\transformed\jetified-window-java-1.2.0\res
+com.example.todo1.app-fragment-1.7.1-10 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\995006e37af407579858abe04f25baec\transformed\fragment-1.7.1\res
+com.example.todo1.app-jetified-annotation-experimental-1.4.0-11 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\9a3c696af86890cdedfd648b488323ef\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.todo1.app-jetified-activity-1.8.1-12 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\9fdf5fcc44f2d479bdcb4bbd4b6d22d7\transformed\jetified-activity-1.8.1\res
+com.example.todo1.app-lifecycle-livedata-2.7.0-13 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\aa6b7d6c2da19f89da7826a9e4cdedac\transformed\lifecycle-livedata-2.7.0\res
+com.example.todo1.app-lifecycle-livedata-core-2.7.0-14 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\ab3c10e22b310d7f765f06e6e2fce53b\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.todo1.app-jetified-startup-runtime-1.1.1-15 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\b349c874faecba637ecc6c2a515445fd\transformed\jetified-startup-runtime-1.1.1\res
+com.example.todo1.app-core-runtime-2.2.0-16 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\b3910236e617e498ee65f5c185f9bdd6\transformed\core-runtime-2.2.0\res
+com.example.todo1.app-core-1.13.1-17 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\c772bfa4f4bd084ead9fe1db120454d6\transformed\core-1.13.1\res
+com.example.todo1.app-jetified-core-1.0.0-18 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\d340453687762571c5e3a2f79dc95563\transformed\jetified-core-1.0.0\res
+com.example.todo1.app-jetified-profileinstaller-1.3.1-19 C:\Users\SAMAKSH GOEL\.gradle\caches\transforms-3\dc42167e2b174845f7fd7520d80c8da0\transformed\jetified-profileinstaller-1.3.1\res
+com.example.todo1.app-debug-20 C:\todo1\android\app\src\debug\res
+com.example.todo1.app-main-21 C:\todo1\android\app\src\main\res
+com.example.todo1.app-pngs-22 C:\todo1\build\app\generated\res\pngs\debug
+com.example.todo1.app-resValues-23 C:\todo1\build\app\generated\res\resValues\debug
+com.example.todo1.app-packageDebugResources-24 C:\todo1\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.todo1.app-packageDebugResources-25 C:\todo1\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.todo1.app-merged_res-26 C:\todo1\build\app\intermediates\merged_res\debug
+com.example.todo1.app-packaged_res-27 C:\todo1\build\path_provider_android\intermediates\packaged_res\debug
